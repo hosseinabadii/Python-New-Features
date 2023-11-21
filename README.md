@@ -29,35 +29,35 @@ Then, navigate to the version-specific directories to find out what's new in eac
 - Positional-only parameters
 - ...
 
-[Learn more](./01%20Python%203.8.ipynb)
+[Learn more](./Notebooks/01%20Python%203.8.ipynb)
 
 ## Python 3.9 Features
 - Dictionary merge & update operators
 - Annotated type hints
 - ...
 
-[Learn more](./02%20Python%203.9.ipynb)
+[Learn more](./Notebooks/02%20Python%203.9.ipynb)
 
 ## Python 3.10 Features
 - Structural Pattern Matching
 - Precise types
 - ...
 
-[Learn more](./03%20Python%203.10.ipynb)
+[Learn more](./Notebooks/03%20Python%203.10.ipynb)
 
 ## Python 3.11 Features
 - `ExceptionGroup` and `except*` syntax
 - Task and Future Groups in asyncio
 - ...
 
-[Learn more](./04%20Python%203.11.ipynb)
+[Learn more](./Notebooks/04%20Python%203.11.ipynb)
 
 ## Python 3.12 Features
 - Type Parameter Syntax
 - Syntactic formalization of f-strings
 - ...
 
-[Learn more](./05%20Python%203.12.ipynb)
+[Learn more](./Notebooks/05%20Python%203.12.ipynb)
 
 ## Python 3.x Features (Upcoming/In progress)
 - Stay tuned for updates on the upcoming features of Python 3.x.
