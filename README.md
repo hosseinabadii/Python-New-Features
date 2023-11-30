@@ -5,7 +5,6 @@ A comprehensive guide to new features introduced in Python from version 3.8 onwa
 This repository serves as a resource for Python developers to learn and explore the new features that have been introduced in Python, starting with version 3.8 and going through to the latest release. Each version is covered with code examples and explanations to help Pythonistas understand and make use of these enhancements in their day-to-day coding tasks.
 
 ## Table of Contents
-- [Getting Started](#getting-started)
 - [Python 3.8 Features](#python-38-features)
 - [Python 3.9 Features](#python-39-features)
 - [Python 3.10 Features](#python-310-features)
@@ -13,16 +12,6 @@ This repository serves as a resource for Python developers to learn and explore 
 - [Python 3.12 Features](#python-312-features)
 - [Python 3.x Features (Upcoming/In progress)](#python-3x-features-upcomingin-progress)
 - [License](#license)
-
-
-## Getting Started
-To use this repository, simply clone it using the following command:
-
-```bash
-git clone git@github.com:hosseinabadii/Python-New-Features.git
-```
-
-Then, navigate to the version-specific directories to find out what's new in each version of Python.
 
 ## Python 3.8 Features
 - Assignment Expressions (The Walrus Operator)
